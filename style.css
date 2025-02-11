@@ -1,0 +1,36 @@
+/* Existing styles... */
+
+.content {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: #1a1a1a;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.content h1 {
+  color: #646cff;
+  margin-bottom: 1.5rem;
+}
+
+.features {
+  margin-top: 2rem;
+  padding: 1rem;
+  background: #242424;
+  border-radius: 8px;
+}
+
+.features h2 {
+  color: #646cff;
+  margin-bottom: 1rem;
+}
+
+.features ul {
+  list-style: disc;
+  padding-left: 2rem;
+}
+
+.features li {
+  margin-bottom: 0.5rem;
+}

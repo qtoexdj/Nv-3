@@ -1,0 +1,10 @@
+/* Existing styles... */
+
+.error {
+  color: #ff4444;
+  background-color: #ffebee;
+  padding: 0.5rem;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+  border: 1px solid #ff4444;
+}
